@@ -1,0 +1,1 @@
+execute as @s[predicate=nightfall:to_overworld] at @s run execute in overworld run tp @s ~ 320 ~

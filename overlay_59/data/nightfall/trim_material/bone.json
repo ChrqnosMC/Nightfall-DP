@@ -1,0 +1,8 @@
+{
+  "asset_name": "bone",
+  "description": {
+    "color": "#eeeeee",
+    "translate": "trim_material.nightfall.bone"
+  },
+  "ingredient": "minecraft:bone"
+}
