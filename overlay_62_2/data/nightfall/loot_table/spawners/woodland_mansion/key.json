@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:trial_key",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "Woodland Key",
+                  "minecraft:custom_model_data": {
+                    "floats": [
+                      4.0
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "rolls": 1.0
+      }
+    ],
+    "random_sequence": "nightfall:spawners/woodland_mansion/key"
+}

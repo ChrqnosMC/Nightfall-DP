@@ -10,4 +10,7 @@ execute as @e[type=#raiders,tag=!raiders_check,limit=1,predicate=nightfall:chanc
 
 tag @e[type=#raiders,tag=!raiders_check] add raiders_check
 
+execute as @a[advancements={nightfall:consume_dreaming_bottle=true}] at @s run function nightfall:get_effect/get_dreaming
+execute as @a[advancements={nightfall:check_sleep=true}] at @s run function nightfall:get_effect/remove_dreaming
+
 schedule function nightfall:tick 1t

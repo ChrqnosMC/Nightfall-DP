@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:ominous_trial_key",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "\"Ominous City Key\"",
+                  "minecraft:custom_model_data": {
+                    "floats": [
+                      2.0
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "rolls": 1.0
+      }
+    ],
+    "random_sequence": "nightfall:spawners/ominous/end_city/key"
+  }

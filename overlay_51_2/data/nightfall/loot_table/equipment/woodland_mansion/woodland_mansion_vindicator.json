@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:equipment",
+    "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:iron_axe",
+            "weight": 4
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "add": false,
+                "enchantments": {
+                  "minecraft:sharpness": 1.0
+                },
+                "function": "minecraft:set_enchantments"
+              }
+            ],
+            "name": "minecraft:iron_axe"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:diamond_axe"
+          }
+        ],
+        "rolls": 1.0
+      }
+    ],
+    "random_sequence": "nightfall:equipment/woodland_mansion/woodland_mansion_vindicator"
+  }

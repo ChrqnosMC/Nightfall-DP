@@ -1,0 +1,57 @@
+{
+    "type": "minecraft:equipment",
+    "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "nightfall:equipment/bastion_remnant/bastion_remnant"
+          }
+        ],
+        "rolls": 1.0
+      },
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:golden_sword",
+            "weight": 4
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "add": false,
+                "enchantments": {
+                  "minecraft:sharpness": 1.0
+                },
+                "function": "minecraft:set_enchantments"
+              }
+            ],
+            "name": "minecraft:golden_sword"
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "add": false,
+                "enchantments": {
+                  "minecraft:knockback": 1.0
+                },
+                "function": "minecraft:set_enchantments"
+              }
+            ],
+            "name": "minecraft:golden_sword"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:netherite_sword"
+          }
+        ],
+        "rolls": 1.0
+      }
+    ],
+    "random_sequence": "nightfall:equipment/bastion_remnant/bastion_remnant_piglin"
+  }

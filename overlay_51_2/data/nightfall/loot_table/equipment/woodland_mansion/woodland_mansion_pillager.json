@@ -1,0 +1,43 @@
+{
+    "type": "minecraft:equipment",
+    "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:crossbow",
+            "weight": 4
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "add": false,
+                "enchantments": {
+                  "minecraft:piercing": 1.0
+                },
+                "function": "minecraft:set_enchantments"
+              }
+            ],
+            "name": "minecraft:crossbow"
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "add": false,
+                "enchantments": {
+                  "minecraft:multishot": 1.0
+                },
+                "function": "minecraft:set_enchantments"
+              }
+            ],
+            "name": "minecraft:crossbow"
+          }
+        ],
+        "rolls": 1.0
+      }
+    ],
+    "random_sequence": "nightfall:equipment/woodland_mansion/woodland_mansion_pillager"
+  }

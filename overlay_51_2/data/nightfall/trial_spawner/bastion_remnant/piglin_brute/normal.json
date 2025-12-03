@@ -1,0 +1,24 @@
+{
+  "loot_tables_to_eject": [
+    {
+      "data": "nightfall:spawners/bastion_remnant/key",
+      "weight": 1
+    },
+    {
+      "data": "minecraft:spawners/trial_chamber/consumables",
+      "weight": 1
+    }
+  ],
+  "simultaneous_mobs_added_per_player": 0.5,
+  "spawn_potentials": [
+    {
+      "data": {
+        "entity": {
+          "id": "minecraft:piglin_brute"
+        }
+      },
+      "weight": 1
+    }
+  ],
+  "ticks_between_spawn": 20
+}

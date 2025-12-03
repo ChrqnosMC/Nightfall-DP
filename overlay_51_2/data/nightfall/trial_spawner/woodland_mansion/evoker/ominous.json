@@ -1,0 +1,27 @@
+{
+  "items_to_drop_when_ominous": "nightfall:spawners/woodland_mansion/items_to_drop_when_ominous",
+  "loot_tables_to_eject": [
+    {
+      "data": "nightfall:spawners/ominous/woodland_mansion/key",
+      "weight": 3
+    },
+    {
+      "data": "minecraft:spawners/ominous/trial_chamber/consumables",
+      "weight": 7
+    }
+  ],
+  "simultaneous_mobs_added_per_player": 0.5,
+  "spawn_potentials": [
+    {
+      "data": {
+        "entity": {
+          "id": "minecraft:evoker"
+        }
+      },
+      "weight": 1
+    }
+  ],
+  "ticks_between_spawn": 20,
+  "total_mobs": 4.0,
+  "total_mobs_added_per_player": 1.0
+}
