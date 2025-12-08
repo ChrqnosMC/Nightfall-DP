@@ -69,6 +69,12 @@
 				"directory": "overlay_58"
 			},
 			{
+				"formats": [58,88],
+				"min_format": [58,0],
+				"max_format": [88,0],
+				"directory": "overlay_58_2"
+			},
+			{
 				"formats": [59,63],
 				"min_format": [59,0],
 				"max_format": [63,0],

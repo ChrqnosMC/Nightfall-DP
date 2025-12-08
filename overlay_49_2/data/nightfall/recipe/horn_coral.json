@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:horn_coral_fan"
+    },
+    "result": {
+        "id": "minecraft:horn_coral",
+        "count": 4
+    }
+}

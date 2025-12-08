@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#P#",
+        "TWT",
+        "#P#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:horn_coral_block"
+        },
+        "P": {
+            "item": "minecraft:prismarine_shard"
+        },
+        "T": {
+            "item": "minecraft:prismarine_crystals"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "id": "minecraft:wet_sponge",
+        "count": 1
+    }
+}
