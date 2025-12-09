@@ -1,9 +1,9 @@
 {
 	"pack": {
-		"pack_format": 88,
-    	"supported_formats": [45,88],
+		"pack_format": 94,
+    	"supported_formats": [45,94],
 		"min_format": [45,0],
-		"max_format": [88,0],
+		"max_format": [94,1],
 		"description": "Nightfall"
 	},
   	"overlays": {
@@ -45,9 +45,9 @@
 				"directory": "overlay_49"
 			},
       		{
-				"formats": [49,88],
+				"formats": [49,94],
 				"min_format": [49,0],
-				"max_format": [88,0],
+				"max_format": [94,1],
 				"directory": "overlay_49_2"
 			},
 			{
@@ -57,9 +57,9 @@
 				"directory": "overlay_51"
 			},
 			{
-				"formats": [51,88],
+				"formats": [51,94],
 				"min_format": [51,0],
-				"max_format": [88,0],
+				"max_format": [94,1],
 				"directory": "overlay_51_2"
 			},
 			{
@@ -69,9 +69,9 @@
 				"directory": "overlay_58"
 			},
 			{
-				"formats": [58,88],
+				"formats": [58,94],
 				"min_format": [58,0],
-				"max_format": [88,0],
+				"max_format": [94,1],
 				"directory": "overlay_58_2"
 			},
 			{
@@ -81,9 +81,9 @@
 				"directory": "overlay_59"
 			},
 			{
-				"formats": [59,88],
+				"formats": [59,94],
 				"min_format": [59,0],
-				"max_format": [88,0],
+				"max_format": [94,1],
 				"directory": "overlay_59_2"
 			},
 			{
@@ -93,15 +93,15 @@
 				"directory": "overlay_62"
 			},
 			{
-				"formats": [62,88],
+				"formats": [62,94],
 				"min_format": [62,0],
-				"max_format": [88,0],
+				"max_format": [94,1],
 				"directory": "overlay_62_2"
 			},
 			{
-				"formats": [64,88],
+				"formats": [64,94],
 				"min_format": [64,0],
-				"max_format": [88,0],
+				"max_format": [94,1],
 				"directory": "overlay_64"
 			},
 			{
@@ -117,9 +117,9 @@
 				"directory": "overlay_66"
 			},
 			{
-				"formats": [75,88],
+				"formats": [75,94],
 				"min_format": [75,0],
-				"max_format": [88,0],
+				"max_format": [94,1],
 				"directory": "overlay_75"
 			}
     	]
