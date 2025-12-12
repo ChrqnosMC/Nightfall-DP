@@ -12,7 +12,7 @@
     "components": {
       "minecraft:custom_model_data": 183,
       "minecraft:trim": {
-        "material": "more_tool_trim:netherite_scrap",
+        "material": "nightfall:netherite_scrap",
         "pattern": "minecraft:dune"
       }
     }

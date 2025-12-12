@@ -12,7 +12,7 @@
     "components": {
       "minecraft:custom_model_data": 608,
       "minecraft:trim": {
-        "material": "more_tool_trim:turtle_scute",
+        "material": "nightfall:turtle_scute",
         "pattern": "minecraft:spire"
       }
     }

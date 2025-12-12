@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:armadillo_scute",
+        "material": "nightfall:armadillo_scute",
         "pattern": "minecraft:tide"
       }
     }

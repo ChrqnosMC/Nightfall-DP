@@ -12,7 +12,7 @@
     "components": {
       "minecraft:custom_model_data": 323,
       "minecraft:trim": {
-        "material": "more_tool_trim:ender_pearl",
+        "material": "nightfall:ender_pearl",
         "pattern": "minecraft:host"
       }
     }

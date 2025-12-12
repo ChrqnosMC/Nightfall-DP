@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 401,
       "minecraft:trim": {
-        "material": "more_tool_trim:fire_charge",
+        "material": "nightfall:fire_charge",
         "pattern": "minecraft:silence"
       }
     }

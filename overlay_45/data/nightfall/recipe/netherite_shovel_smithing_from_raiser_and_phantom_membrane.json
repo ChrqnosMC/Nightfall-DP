@@ -12,7 +12,7 @@
     "components": {
       "minecraft:custom_model_data": 260,
       "minecraft:trim": {
-        "material": "more_tool_trim:phantom_membrane",
+        "material": "nightfall:phantom_membrane",
         "pattern": "minecraft:raiser"
       }
     }

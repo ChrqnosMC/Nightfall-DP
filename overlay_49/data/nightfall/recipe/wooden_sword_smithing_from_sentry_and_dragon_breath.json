@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 16,
       "minecraft:trim": {
-        "material": "more_tool_trim:dragon_breath",
+        "material": "nightfall:dragon_breath",
         "pattern": "minecraft:sentry"
       }
     }

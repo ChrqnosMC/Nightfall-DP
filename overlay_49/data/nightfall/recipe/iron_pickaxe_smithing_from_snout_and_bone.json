@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 469,
       "minecraft:trim": {
-        "material": "more_tool_trim:bone",
+        "material": "nightfall:bone",
         "pattern": "minecraft:snout"
       }
     }

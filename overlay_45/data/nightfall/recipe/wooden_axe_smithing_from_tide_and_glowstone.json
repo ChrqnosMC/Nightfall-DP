@@ -12,7 +12,7 @@
     "components": {
       "minecraft:custom_model_data": 441,
       "minecraft:trim": {
-        "material": "more_tool_trim:glowstone",
+        "material": "nightfall:glowstone",
         "pattern": "minecraft:tide"
       }
     }

@@ -12,7 +12,7 @@
     "components": {
       "minecraft:custom_model_data": 104,
       "minecraft:trim": {
-        "material": "more_tool_trim:nautilus",
+        "material": "nightfall:nautilus",
         "pattern": "minecraft:wild"
       }
     }

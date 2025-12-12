@@ -12,7 +12,7 @@
     "components": {
       "minecraft:custom_model_data": 202,
       "minecraft:trim": {
-        "material": "more_tool_trim:blaze_rod",
+        "material": "nightfall:blaze_rod",
         "pattern": "minecraft:wayfinder"
       }
     }

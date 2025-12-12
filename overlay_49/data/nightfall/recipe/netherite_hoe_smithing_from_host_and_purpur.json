@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 339,
       "minecraft:trim": {
-        "material": "more_tool_trim:purpur",
+        "material": "nightfall:purpur",
         "pattern": "minecraft:host"
       }
     }

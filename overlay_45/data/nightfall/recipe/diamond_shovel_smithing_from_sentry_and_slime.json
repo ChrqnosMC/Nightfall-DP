@@ -12,7 +12,7 @@
     "components": {
       "minecraft:custom_model_data": 37,
       "minecraft:trim": {
-        "material": "more_tool_trim:slime",
+        "material": "nightfall:slime",
         "pattern": "minecraft:sentry"
       }
     }

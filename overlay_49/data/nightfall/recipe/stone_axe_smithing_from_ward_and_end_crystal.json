@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 360,
       "minecraft:trim": {
-        "material": "more_tool_trim:end_crystal",
+        "material": "nightfall:end_crystal",
         "pattern": "minecraft:ward"
       }
     }

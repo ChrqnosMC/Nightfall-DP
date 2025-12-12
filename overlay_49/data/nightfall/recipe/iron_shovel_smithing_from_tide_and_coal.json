@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 433,
       "minecraft:trim": {
-        "material": "more_tool_trim:coal",
+        "material": "nightfall:coal",
         "pattern": "minecraft:tide"
       }
     }

@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 166,
       "minecraft:trim": {
-        "material": "more_tool_trim:breeze_rod",
+        "material": "nightfall:breeze_rod",
         "pattern": "minecraft:dune"
       }
     }

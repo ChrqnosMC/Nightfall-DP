@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:prismarine",
+        "material": "nightfall:prismarine",
         "pattern": "minecraft:bolt"
       }
     }

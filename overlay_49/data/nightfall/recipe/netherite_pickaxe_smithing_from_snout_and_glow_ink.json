@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 478,
       "minecraft:trim": {
-        "material": "more_tool_trim:glow_ink",
+        "material": "nightfall:glow_ink",
         "pattern": "minecraft:snout"
       }
     }

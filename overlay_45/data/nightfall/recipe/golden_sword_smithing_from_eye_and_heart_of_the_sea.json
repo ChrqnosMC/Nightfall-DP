@@ -12,7 +12,7 @@
     "components": {
       "minecraft:custom_model_data": 557,
       "minecraft:trim": {
-        "material": "more_tool_trim:heart_of_the_sea",
+        "material": "nightfall:heart_of_the_sea",
         "pattern": "minecraft:eye"
       }
     }

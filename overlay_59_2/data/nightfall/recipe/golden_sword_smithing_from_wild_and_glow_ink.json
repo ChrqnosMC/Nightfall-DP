@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:glow_ink",
+        "material": "nightfall:glow_ink",
         "pattern": "minecraft:wild"
       }
     }

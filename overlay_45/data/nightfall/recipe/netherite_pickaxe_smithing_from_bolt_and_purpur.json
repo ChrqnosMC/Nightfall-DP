@@ -12,7 +12,7 @@
     "components": {
       "minecraft:custom_model_data": 681,
       "minecraft:trim": {
-        "material": "more_tool_trim:purpur",
+        "material": "nightfall:purpur",
         "pattern": "minecraft:bolt"
       }
     }

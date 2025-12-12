@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:experience_bottle",
+        "material": "nightfall:experience_bottle",
         "pattern": "minecraft:raiser"
       }
     }
