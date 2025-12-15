@@ -13,4 +13,8 @@ tag @e[type=#raiders,tag=!raiders_check] add raiders_check
 execute as @a[advancements={nightfall:consume_dreaming_bottle=true}] at @s run function nightfall:get_effect/get_dreaming
 execute as @a[advancements={nightfall:check_sleep=true}] at @s run function nightfall:get_effect/remove_dreaming
 
+scoreboard players enable @a live
+execute as @a[scores={live=1..},team=!live] run function nightfall:join_team
+execute as @a[scores={live=1..},team=live] run function nightfall:leave_team
+
 schedule function nightfall:tick 1t
