@@ -15,7 +15,14 @@
 							]
 						},
 						"lore": [
-							"{ 'color': 'blue', 'italic': false, 'translate': 'item.nightfall.dreaming_bottle4', 'fallback': 'Dreaming IV (1:20:00)' }"
+							[
+								{
+									"translate": "item.nightfall.dreaming_bottle4",
+									"color": "blue",
+									"italic": false,
+									"fallback": "Dreaming IV (1:20:00)"
+								}
+							]
 						]
 					}
 				}
