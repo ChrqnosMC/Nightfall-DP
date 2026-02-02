@@ -18,7 +18,14 @@
             },
             "!ominous_bottle_amplifier": {},
             "lore": [
-                "{ 'color': 'blue', 'italic': false, 'translate': 'item.nightfall.dreaming_bottle3', 'fallback': 'Dreaming III (1:00:00)' }"
+                [
+                    {
+                        "translate": "item.nightfall.dreaming_bottle3",
+                        "color": "blue",
+                        "italic": false,
+                        "fallback": "Dreaming III (1:00:00)"
+                    }
+                ]
             ]
         }
     }
